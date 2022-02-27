@@ -43,4 +43,4 @@ From version 3, **MDT-CLI** supports multiple popular EVM Blockchain network.
 - Configurations: https://mdt.gg/cli/configuration/configs
 - FAQs & Tips: https://mdt.gg/protocol/faqs
 
-<!-- __BUMP -->
+<!-- ___BUMP -->
