@@ -16,3 +16,9 @@
 Many investors are unable to purchase a premier sniper bot fur to the exorbitant prices, and this is the exact reason that makes mdtProtocol stands out from other sniper bot.
 
 [**_Learn More About Tiers_**](https://mdt.gg/tiers)
+
+## Useful Links
+
+- [**Main Website**](https://mdt.gg)
+- [**Join our Community**](https://discord.gg/mdtProtocol)
+- [**Follow us on Twitter**](https://twitter.com/mdtProtocol)
