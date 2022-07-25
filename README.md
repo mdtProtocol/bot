@@ -1,5 +1,11 @@
 # What is mdtProtocol?
 
+[![mdtApp Release](https://badgen.net/github/release/mdtProtocol/bot/stable)](https://github.com/mdtProtocol/bot/releases)
+[![mdtApp Downloads](https://badgen.net/github/assets-dl/mdtProtocol/bot)](https://github.com/mdtProtocol/bot/releases/latest)
+
+[![mdtProtocol Discord](https://badgen.net/discord/members/mdtprotocol?icon=discord)](https://discord.gg/mdtProtocol)
+[![mdtProtocol Twitter](https://badgen.net/twitter/follow/mdtprotocol?icon=twitter)](https://twitter.com/mdtProtocol)
+
 ![MDT Header](https://raw.githubusercontent.com/mdtProtocol/bot/master/assets/mdt_header.png)
 
 
